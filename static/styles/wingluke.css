@@ -1,0 +1,213 @@
+body { 
+    background-color: #ffffff;
+    font-family: Arial;
+    font-size: 11px;
+}
+
+#nav {
+    text-align: right;
+}
+
+#headerNav {
+    list-style:none;
+    float: right;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+#headerNav li {
+    float: left;
+    color: #860001; 
+    margin-left: 42px;
+    font-size: 12px;
+}
+
+#searchForm input {
+    color: #666666;
+    width: 200px;
+}
+
+.button {
+    color: #ffffff;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    background-color: #8f2d2a;
+    margin-right: -20px;
+}
+
+#navContainerPrimary { 
+    background-color: #8f2d2a;
+    margin-top: 5px;
+    padding-top: 6px;
+    padding-bottom: 9px;
+}
+
+#navBarPrimary { 
+    list-style:none;
+    margin-left: 10px;
+}
+
+
+#navBarPrimary a:link {
+    color:#ffffff; 
+    text-decoration: none; 
+}
+#navBarPrimary a:visited {
+    color:#fafafa;
+    text-decoration: none;
+}
+
+#navBarPrimary a:hover { 
+    color:#fccc60;
+    text-decoration: underline;
+}
+
+#navBarPrimary a:active {    
+    color: #fccc60; 
+}
+
+#navBarPrimary li { 
+    float: left;
+    color: #ffffff;
+    font-size: 18px;
+    margin-right: 45px;
+}
+
+#navBarPrimary li.selected { 
+    color: #fccc60;
+}
+
+#navContainerSecondary { 
+    background-color: #5f0101;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#navBarSecondary { 
+    list-style: none;
+}
+
+#navBarSecondary > li:first-child {
+    margin-left: 68px;
+}
+
+#navBarSecondary li { 
+    float: left;
+    color: #ffffff;
+    font-size: 12px;
+    margin-right: 30px;
+}
+
+#banner {
+    background-color: #8f2d2a;
+    padding-bottom: 11px;
+}
+
+#exhibitsContainer, .bg2 { 
+    background-color: #e3eaf4;
+    padding-left: 15px;
+}
+
+h2 { 
+    font-size: 14px;
+    text-transform:uppercase;
+    margin-bottom: 20px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+h3 {
+    font-size: 14px;
+    text-transform:uppercase;
+    margin-top: 7px;
+    margin-bottom: 7px;
+}
+
+#toursContainer p {
+    margin-top: 4px;
+    line-height:150%;
+    padding-right: 10px;
+}
+
+h4 {
+    font-size: 13px;
+    color: #8f2d2a;
+    margin-top: 0px;
+}
+
+h5 {
+    font-size: 11px;
+    color: #8f2d2a;
+}
+
+
+#toursContainer, .bg1 {
+    background-color: #fff4dc;
+    padding-left: 15px;
+}
+
+.eventItem { 
+    margin-bottom: 10px;
+}
+
+.tourItem {
+    margin-bottom: 10px;
+}
+
+.exhibitItem {
+    margin-bottom: 10px;
+}
+
+.exhibitItem img {
+    float: left;
+}
+
+#socialLinks  {
+    margin-top: 15px;
+}
+
+#socialLinks li {
+    height: 42px; 
+    width: 190px;
+    margin-bottom: 10px;
+}
+
+#socialLinks img {
+    float: left;
+}
+#socialLinks li div {
+    padding-top: 10px;
+}
+
+
+#navContainerSecondary { 
+    visibility: hidden;
+}
+
+dt {
+    font-style: italic,
+}
+
+dd { 
+    font-weight: bold;
+    margin-bottom: 25px;
+}
+
+#leftNav li {
+    margin-left: 15px;
+    margin-bottom: 15px;
+    font-size: 12px;
+    
+}
+
+#leftNav li > li {
+    margin-left: 15px;
+    padding-left: 15px;
+    font-size: 11px;
+}
+
+.quaternaryNav { 
+
+}
