@@ -1,4 +1,4 @@
-<!--#include file="header.shtm"-->
+<!--#include file="include/header.shtm"-->
 
 <div id="homecontainer" class="container_12">
 
@@ -60,4 +60,4 @@ Free | In Community Hall at The Wing | Sponsored by Target
 
 
 
-<!--#include file="footer.shtm"-->
+<!--#include file="include/footer.shtm"-->
