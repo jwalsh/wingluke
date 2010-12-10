@@ -1,11 +1,35 @@
-      
-      <script
-          src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
-      <script
-          src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
 
 
-      <script src="static/js/wingluke.js"></script>
+<div id="header" class="container_12">
 
-    </body>
-  </html>
+  <div id="" class="grid_12 ">
+    <ul>
+      <li>
+        <a href="">Blog</a>
+      </li>
+      <li>
+        <a href="">Join our mailing list</a>
+      </li>
+      <li>
+        <a href="">Newsletter</a>
+      </li>
+      <li>
+        <a href="">Sitemap</a>
+      </li>
+      <li>
+        <a href="">Press</a>
+      </li>
+  </div>
+
+</div>
+
+<script
+   src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<script
+   src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
+
+
+<script src="static/js/wingluke.js"></script>
+
+</body>
+</html>
