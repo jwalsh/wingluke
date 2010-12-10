@@ -1,6 +1,8 @@
 <!--#include file="header.shtm"-->
 
+<div id="homecontainer" class="container_12">
 
+<div id="" class="grid_6 ">
 <h2>Tours</h2>
 
 <h3>Historic Hotel Tour</h3>
@@ -15,6 +17,9 @@ Guided tour of histori Chinatown hotel and Yick Fung Company store.  Tours are a
 Experience the Touce of Chinatown, a guided tour of Chinatown-International District neighborhood.
 </p>
 
+</div>
+
+<div id="" class="grid_3 ">
 <h2>Exhibits</h2>
 
 <img src="../refugee.gif" height="118" width="180"><span class="bodyblack">Photo courtesy of Chio Sateurn. </span></td>
@@ -25,82 +30,34 @@ Experience the Touce of Chinatown, a guided tour of Chinatown-International Dist
             Safeco Foundation Insurance Special Exhibition Gallery<br>
 <br>
 See life through the eyes of a refugee through personal stories, moving photographs and multimedia. Hear first-hand accounts of how refugees survived war, violence and oppression with hopes for a better future for their families. Ponder the trials of starting a life with nothing, in strange places and foreign cities, and having to call this new place a home.</p>
-          <p><strong>Sponsored by:</strong> The Hugh and Jane Ferguson Foundation, Humanities Washington, Washington State Arts Commission<br>
-              <strong>Additional funding from:</strong> 4Culture, ArtsFund, MetLife Foundation, The Paul G. Allen Family Foundation, The Seattle Foundation, City of Seattle Office of Arts &amp; Cultural Affairs, The National Endowment for the Arts, The American Recovery and Reinvestment Act 2009<br>
 
-              <strong>Community Partners:</strong> Asian Counseling and Referral Service, Coalition for Refugees from Burma, Helping Link, Hmong Association of Washington, International Rescue Committee, Jewish Family Service Refugee and Immigrant Service Centers, Khmer In Action, Lao Heritage Foundation-Pacific Northwest Chapter, Legacies of War, Northwest Immigrant Rights Project, OneAmerica, Refugee and Immigrant Children’s Program of Lutheran Community Services Northwest, Tibetan Association of Washington<br>
-              <strong>Media Partner:</strong> KBCS 91.3 FM.<br>
-          </p>
-          </td>
-        <td height="20" width="20"></td>
-        <td bgcolor="#262626" height="20" width="10"></td>
+</div>
 
-      </tr>
-      <tr align="left" bgcolor="#fff2bb" valign="top">
-        <td bgcolor="#262626" height="15" width="15"></td>
-        <td height="15" width="20"></td>
-        <td height="15" width="180"></td>
-        <td height="15" width="15"></td>
-        <td height="15" width="501"></td>
-        <td height="15" width="20"></td>
-        <td bgcolor="#262626" height="15" width="10"></td>
-
-      </tr>
-      <tr align="left" bgcolor="#fff2bb" valign="top">
-        <td bgcolor="#262626" height="3" width="15"></td>
-        <td height="3" width="20"></td>
-        <td colspan="3" background="template/divideryellow.gif" height="3" width="696"></td>
-        <td height="3" width="20"></td>
-        <td bgcolor="#262626" height="3" width="10"></td>
-      </tr>
-      
-      
-      
-            <tr align="left" bgcolor="#fff2bb" valign="top">
-
-        <td bgcolor="#262626" height="15" width="15"></td>
-        <td height="15" width="20"></td>
-        <td height="15" width="180"></td>
-        <td height="15" width="15"></td>
-        <td height="15" width="501"></td>
-        <td height="15" width="20"></td>
-        <td bgcolor="#262626" height="15" width="10"></td>
-      </tr>
-
-            <tr align="left" bgcolor="#fff2bb" valign="top">
-        <td bgcolor="#262626" height="20" width="15"></td>
-        <td height="20" width="20"></td>
-        <td height="20" width="180"><img src="home-revealed.jpg"></td>
-        <td height="20" width="15"></td>
-        <td class="bodyblack" height="20" width="501"><p><a name="HR"><strong class="style6">HOME REVEALED: ARTISTS OF THE CHINATOWN-INTERNATIONAL DISTRICT</strong></a><br>
-        <b>On display through April 17, 2011</b><br>
-        George Tsutakawa Art Gallery<br>
-
-        </p><p><a href="http://wingluke.org/exhibitions/home-revealed-POSTER-3.pdf" class="bodyredbold">Click for exhibit poster</a></p>
-<p>
-Home Revealed highlights the work of seven artists who have made the Chinatown-International District base for their place to live, work and create art.</p>
-
-<p><b>Funding from:</b> 4Culture, ArtsFund, MetLife Foundation, The Paul G. Allen Family Foundation, The Seattle Foundation, City of Seattle Office of Arts &amp; Cultural Affairs, Ford Foundation, JPMorgan Chase Foundation, U.S. Bancorp Foundation, Washington State Arts Commission, Wing Luke Museum Donors<br>
-<b>Featured Artists:</b> <a href="art_pop/webZhoulieDeng.jpg" class="bodyredbold artist" rel="homerevealed" title="&lt;b&gt;Zuolie Deng&lt;/b&gt;&lt;br&gt;Moonlit Night&lt;br&gt;2002&lt;br&gt;Courtesy of Zuolie Deng&lt;br&gt;Deng's Studio &amp; Art Gallery&lt;br&gt;670 South King Street&lt;br&gt;Seattle, WA 98104-2938">Zuolie Deng</a>, <a href="art_pop/webKIKUKO%20DEWA%20DRESS.jpg" class="bodyredbold artist" rel="homerevealed" title="&lt;b&gt;Kikuko Dewa&lt;/b&gt;&lt;br&gt;Indigo &lt;i&gt;kasuri&lt;/i&gt; dress with fuschia lace&lt;br&gt;2007&lt;br&gt;Courtesy of Degenerate Art Ensemble&lt;br&gt;Photo by John D. Pai">Kikuko Dewa</a>, <a href="art_pop/AndrewHida.jpg" class="bodyredbold artist" rel="homerevealed" title="&lt;b&gt;Andrew Hida&lt;/b&gt;&lt;br&gt;“16 Square Blocks: El Verdadero Camino del Señor”&lt;br&gt;2010&lt;br&gt;Courtesy of Andrew Hida&lt;br&gt;http://andrewhida.com">Andrew Hida</a>, <a href="art_pop/webMengHuang.jpg" class="bodyredbold artist" rel="homerevealed" title="&lt;b&gt;Meng Huang&lt;/b&gt;&lt;br&gt;Untitled&lt;br&gt;ca. mid-late 1990s&lt;br&gt;Wing Luke Museum Collection&lt;br&gt;Photo by John D. Pai">Meng Huang</a>, <a href="art_pop/webALAN%20LAU%20D.jpg" class="bodyredbold artist" rel="homerevealed" title="&lt;b&gt;Alan Lau&lt;/b&gt;&lt;br&gt;dust from her feet (for saiko, mei-lan and kevin)&lt;br&gt;1995&lt;br&gt;Courtesy of Francine Seders Gallery&lt;br&gt;Photo by John D. Pai&lt;br&gt;http://www.sedersgallery.com/Artists/043/LauRESf.html">Alan Lau</a>, <a href="art_pop/webAmyNikaitani.jpg" class="bodyredbold artist" rel="homerevealed" title="&lt;b&gt;Amy Nikaitani&lt;/b&gt;&lt;br&gt;Untitled&lt;br&gt;ca. 1982&lt;br&gt;Wing Luke Museum Collection&lt;br&gt;http://sumibyamy.com/">Amy Nikaitani</a> and <a href="art_pop/webDeanWong.jpg" class="bodyredbold artist" rel="homerevealed" title="&lt;b&gt;Dean Wong&lt;/b&gt;&lt;br&gt;“Tet Lunar New Year”&lt;br&gt;2008&lt;br&gt;Wing Luke Museum Collection">Dean Wong</a>.<br>
-
-<b>Education Advisors:</b> Pam Hom, Khoi Nguyen, Fay Shimada, Libby Sinclair
-</p>
-
-
+<div id="" class="grid_3 ">
 <!-- events --><h2>Events</h2>
 • FILM SCREENING: <i>Sadako and the Thousand Paper Cranes</i></span> | Saturday, December 4 @ 3pm</p><p>
 Set in 1955, this film is the true story of Sadako Sasaki, a young Japanese girl, on the threshold of adolescence, who developed leukemia from radiation caused by the bombing of Hiroshima.  While hospitalized, her closest friend reminded her of the Japanese legend that if she folded a thousand paper cranes, the gods might grant her wish to be well again.  With hope and determination, Sadako began folding. (1991, 20 minutes)  After the movie, learn how to create cranes of different sizes and colors. Puget Area Paperfolding Enthusiast Roundtable (P.A.P.E.R.) will be showing you how to create paper crane ornaments.</p><p>
 
 This program is part of the Tateuchi Story Theatre Performing Arts Series sponsored by the Atsuhiko &amp; Ina Goodwin Tateuchi Foundation.</p><p>
 Free | In the Tateuchi Story Theatre at the Wing
-</p></div>
+</p>
 
-<div class="entry bodyblack">
+
 <p><span class="titleblack">
 • FAMILY FUN DAY: YouthCAN</span> | Saturday, December 18 @ 1–3pm</p><p>
 YouthCAN, one of The Wing's youth groups (and recent national award-winners), and their Artist Mentor, Jonathan Wakuda Fisher, will show you how they created their graffiti art.  Use their unique stencils to make graffiti wrapping paper and "tag" some gift tags.  Check out their exhibit in the Frank Fujii Youth Space located on the second floor.</p><p>
 Free | In Community Hall at The Wing | Sponsored by Target
 </p>
+
+</div>
+
+</div>
+
+
+
+
+
+
 
 
 <!--#include file="footer.shtm"-->
