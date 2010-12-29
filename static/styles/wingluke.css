@@ -37,14 +37,14 @@ body {
     margin-right: -20px;
 }
 
-#navContainerPrimary { 
+#navContainerPrimary {
     background-color: #8f2d2a;
     margin-top: 5px;
     padding-top: 6px;
     padding-bottom: 9px;
 }
 
-#navBarPrimary { 
+#navBarPrimary {
     list-style:none;
     margin-left: 10px;
 }
@@ -59,23 +59,23 @@ body {
     text-decoration: none;
 }
 
-#navBarPrimary a:hover { 
+#navBarPrimary a:hover {
     color:#fccc60;
     text-decoration: underline;
 }
 
-#navBarPrimary a:active {    
+#navBarPrimary a:active {
     color: #fccc60; 
 }
 
-#navBarPrimary li { 
+#navBarPrimary li {
     float: left;
     color: #ffffff;
     font-size: 18px;
     margin-right: 45px;
 }
 
-#navBarPrimary li.selected { 
+#navBarPrimary li.selected {
     color: #fccc60;
 }
 
@@ -210,4 +210,50 @@ dd {
 
 .quaternaryNav { 
 
+}
+
+/* footer styles */
+#footerPrimary { 
+    background-color: #8f2d2a;
+    margin-top: 5px;
+    padding-top: 6px;
+    padding-bottom: 9px;
+}
+
+#footerPrimary { 
+    list-style:none;
+    margin-left: 10px;
+}
+
+#footerPrimary a:link {
+    color:#ffffff; 
+    text-decoration: none; 
+}
+#footerPrimary a:visited {
+    color:#fafafa;
+    text-decoration: none;
+}
+
+#footerPrimary a:hover {
+    color:#fccc60;
+    text-decoration: underline;
+}
+
+#footerPrimary a:active {
+    color: #fccc60; 
+}
+
+#footerPrimary ul {
+	list-style: none outside none;
+}
+
+#footerPrimary li {
+    float: left;
+    color: #ffffff;
+    font-size: 18px;
+    margin-right: 45px;
+}
+
+#footerPrimary li.selected {
+    color: #fccc60;
 }

@@ -56,9 +56,9 @@
         <div id="navContainerPrimary" class="grid_12">
 
           <ul id="navBarPrimary">
-            <li><a href="/testing/">Home</li>
-            <li><a href="/testing//visit">Visit</a></li>
-            <li><a href="/testing/explore">Explore</a>/li>
+            <li><a href="/testing/">Home</a></li>
+            <li><a href="/testing/visit">Visit</a></li>
+            <li><a href="/testing/explore">Explore</a></li>
             <li><a href="/testing/learn">Learn</a></li>
             <li><a href="/testing/support">Support</a></li>
             <li><a href="/testing/shop">Shop</a></li>

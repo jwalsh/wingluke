@@ -2,7 +2,7 @@
 
 <div id="homecontainer" class="container_12">
 
-<div id="" class="grid_6 ">
+<div id="homeTours" class="grid_6 ">
 <h2>Tours</h2>
 
 <h3>Historic Hotel Tour</h3>
@@ -19,35 +19,43 @@ Experience the Touce of Chinatown, a guided tour of Chinatown-International Dist
 
 </div>
 
-<div id="" class="grid_3 ">
+<div id="homeExhibits" class="grid_3 ">
 <h2>Exhibits</h2>
 
-<img src="../refugee.gif" height="118" width="180"><span class="bodyblack">Photo courtesy of Chio Sateurn. </span></td>
-        <td height="20" width="15"></td>
-        <td class="bodyblack" height="20" width="501"><p><a name="RJHS"><strong class="style6">A REFUGEE'S JOURNEY OF HOPE AND SURVIVIAL</strong></a><br>
-            <strong><u>CLOSING SOON</u>: On display through December 12, 2010</strong><br>
+<p><a href="http://wingluke.org/exhibitions/special.htm#SS"><b><i>Sacred Seattle…</i></b></a><br>
+<img src="../exhibitions/sacred_seattle_small.jpg" style="border: none; width:100%"><br style="clear: both;"></p>
 
-            Safeco Foundation Insurance Special Exhibition Gallery<br>
-<br>
-See life through the eyes of a refugee through personal stories, moving photographs and multimedia. Hear first-hand accounts of how refugees survived war, violence and oppression with hopes for a better future for their families. Ponder the trials of starting a life with nothing, in strange places and foreign cities, and having to call this new place a home.</p>
+<p><a href="http://wingluke.org/exhibitions/special.htm#HR"><b><i>Home Revealed</i></b></a><br>
+<img src="../exhibitions/home-revealed.jpg" style="border: none; width:100%" ><br style="clear: both;"></b></p>
+
+<p><a href="http://wingluke.org/exhibitions/special.htm#FTGU"><b><i>From the Ground Up</i></b></a><br>
+<img src="../exhibitions/from-the-ground-up-1.jpg" style="border: none; width:100%"></b></p>
 
 </div>
 
-<div id="" class="grid_3 ">
-<!-- events --><h2>Events</h2>
-• FILM SCREENING: <i>Sadako and the Thousand Paper Cranes</i></span> | Saturday, December 4 @ 3pm</p><p>
-Set in 1955, this film is the true story of Sadako Sasaki, a young Japanese girl, on the threshold of adolescence, who developed leukemia from radiation caused by the bombing of Hiroshima.  While hospitalized, her closest friend reminded her of the Japanese legend that if she folded a thousand paper cranes, the gods might grant her wish to be well again.  With hope and determination, Sadako began folding. (1991, 20 minutes)  After the movie, learn how to create cranes of different sizes and colors. Puget Area Paperfolding Enthusiast Roundtable (P.A.P.E.R.) will be showing you how to create paper crane ornaments.</p><p>
+<div id="homeEvents" class="grid_3 ">
+<h2>Events</h2>
+<p>
+<h3>FIRST THURSDAY</h3>
+Thursday, January 6 @ 10am&ndash;8pm</p>
 
-This program is part of the Tateuchi Story Theatre Performing Arts Series sponsored by the Atsuhiko &amp; Ina Goodwin Tateuchi Foundation.</p><p>
-Free | In the Tateuchi Story Theatre at the Wing
+
+<p>
+<h3>BOOK READING WITH VERA ING</h3>
+Thursday, January 6 @ 6pm</p><p>
+Local community activist Vera Ing will do a reading from her memoir <i>Dim Sum: The Seattle ABC (American Born Chinese) Dream</i>.  "Lifelong Seattle resident Vera Ing writes about her early days in Chinatown, growing up in the Central Area and raising a family in Mt. Baker during the Civil Rights Movement. She talks about enduring friendships and the power of community organizing. And she rediscovers treasured Chinese American traditions that have nearly vanished from families that have assimilated too quickly." (excerpt from back of book)  <i>Dim Sum</i> is available to purchase from the Museum's store, The Marketplace.  For more info, check out Vera's website at <a href="http://veraing.com" class="bodyredbold">veraing.com</a>.</p><p>
+Free | In Tateuchi Story Theatre at The Wing
 </p>
 
 
-<p><span class="titleblack">
-• FAMILY FUN DAY: YouthCAN</span> | Saturday, December 18 @ 1–3pm</p><p>
-YouthCAN, one of The Wing's youth groups (and recent national award-winners), and their Artist Mentor, Jonathan Wakuda Fisher, will show you how they created their graffiti art.  Use their unique stencils to make graffiti wrapping paper and "tag" some gift tags.  Check out their exhibit in the Frank Fujii Youth Space located on the second floor.</p><p>
-Free | In Community Hall at The Wing | Sponsored by Target
-</p>
+<p>
+<h3>CULTURAL CONFLUENCE: URBAN PEOPLE OF ASIAN AND NATIVE AMERICAN HERITAGES: Exhibit Opening Reception</h3>
+Thursday, January 13 @ 5:30&ndash;8pm</p><p>
+Join us we celebrate the opening of our upcoming exhibit <i>Cultural Confluence: Urban People of Asian and Native American Heritages</i>.</p><p>
+5:30&ndash;7pm Exclusive preview for members and invited guests.  Light refreshments will be served.  To RSVP, please contact Liz Shaiken at <a href="mailto:lshaiken@wingluke.org&Subject=Cultural%20Confluence%20RSVP">lshaiken@wingluke.org</a>, 206-623-5124 ext. 107.</p><p>
+7&ndash;8pm Open to the public, free admission, No RSVP required.
+</p></div>
+
 
 </div>
 

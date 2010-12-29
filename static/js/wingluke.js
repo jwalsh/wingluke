@@ -9,13 +9,19 @@ $(function () {
                 $("#navContainerSecondary").css("visibility","visible");
             }
         )
-        .bind(
-            "mouseout",
-            function () {
-                $("#navContainerSecondary").css("visibility","hidden");
-            }
-        );
+//         .bind(
+//             "mouseout",
+//             function () {
+//                 $("#navContainerSecondary").css("visibility","hidden");
+//             }
+//         );
 
-    
+    $("#navBarSecondary li")
+    	.bind(
+    		"mouseout",
+    		function () {
+	    		$("#navContainerSecondary").css("visibility","hidden");
+    		}
+    	)
 
 })
