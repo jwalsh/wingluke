@@ -1,2 +1,31 @@
 <!--#include file="../includes/header.shtm"-->
+
+
+<div id="learnContainer" class="container_12">
+
+<div id="leftNav" style="background-color: #fccc60;" class="grid_2 ">
+  <h2>Shop</h2>
+
+  <ul>
+    <li><a href="">Best Sellers</a></li>
+    <li><a href="">Posters & Prints</a></li>
+    <li><a href="">Gift Ideas</a></li>
+    <li><a href="">Join & Save 10%</a></li>
+  </ul>
+</div>
+
+	<div id="" class="grid_3 ">
+		<img src="/testing/static/images/logo.png" alt="The Wing" style="width:100%">
+	</div>
+	
+	<div id="" class="grid_4 ">
+		<!--#include file="../includes/lorem-ipsum"-->
+	</div>
+	
+	<div id="" class="grid_3 ">
+		<img src="/testing/static/images/logo.png" alt="The Wing" style="width:100%">
+	</div>
+
+</div>
+
 <!--#include file="../includes/footer.shtm"-->

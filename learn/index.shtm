@@ -1,2 +1,29 @@
 <!--#include file="../includes/header.shtm"-->
+
+
+<div id="learnContainer" class="container_12">
+
+<div id="leftNav" style="background-color: #fccc60;" class="grid_2 ">
+  <h2>Learn</h2>
+
+  <ul>
+    <li><a href="">Children's Programs</a></li>
+    <li><a href="">Youth Programs</a></li>
+    <li><a href="">School Tours</a></li>
+    <li><a href="">Be a Docent</a></li>
+    <li><a href="">Internships</a></li>
+  </ul>
+</div>
+
+	
+	<div id="" class="grid_2 ">
+		<img src="/testing/static/images/logo.png" alt="The Wing" style="width:100%">
+	</div>
+	
+	<div id="" class="grid_8 ">
+		<!--#include file="../includes/lorem-ipsum"-->
+	</div>
+
+</div>
+
 <!--#include file="../includes/footer.shtm"-->

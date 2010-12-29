@@ -1,2 +1,30 @@
 <!--#include file="../includes/header.shtm"-->
+
+
+<div id="learnContainer" class="container_12">
+
+<div id="leftNav" style="background-color: #fccc60;" class="grid_2 ">
+  <h2>Support</h2>
+
+  <ul>
+    <li><a href="">Sign In</a></li>
+    <li><a href="">Membership</a></li>
+    <li><a href="">Donate</a></li>
+  </ul>
+</div>
+
+	<div id="" class="grid_2 ">
+		<img src="/testing/static/images/logo.png" alt="The Wing" style="width:100%">
+	</div>
+	
+	<div id="" class="grid_6 ">
+		<!--#include file="../includes/lorem-ipsum"-->
+	</div>
+	
+	<div id="" class="grid_2 ">
+		<img src="/testing/static/images/logo.png" alt="The Wing" style="width:100%">
+	</div>
+
+</div>
+
 <!--#include file="../includes/footer.shtm"-->

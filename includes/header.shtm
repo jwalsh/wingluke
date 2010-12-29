@@ -2,10 +2,10 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
   <head>
     <title>Wing Luke Home</title>
-    <link href="static/styles/text.css" rel="stylesheet"/>
-    <link href="static/styles/reset.css" rel="stylesheet"/>
-    <link href="static/styles/95605.css" rel="stylesheet"/>
-    <link href="static/styles/wingluke.css" rel="stylesheet"/>
+    <link href="/testing/static/styles/text.css" rel="stylesheet"/>
+    <link href="/testing/static/styles/reset.css" rel="stylesheet"/>
+    <link href="/testing/static/styles/95605.css" rel="stylesheet"/>
+    <link href="/testing/static/styles/wingluke.css" rel="stylesheet"/>
 
     <meta property="og:title" content="Wing Luke Museum of the Asian Pacific American Experience"/>
     <meta property="og:type" content="non_profit"/>
@@ -31,7 +31,7 @@
       <div class="container_12">
 
         <div id="icon" class="grid_6">
-          <img src="static/images/logo.png" alt="The Wing"/>
+          <img src="/testing/static/images/logo.png" alt="The Wing"/>
         </div>
 
         <div id="nav" class="grid_6">

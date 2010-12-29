@@ -1,93 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-  <head>
-    <title>Wing Luke Home</title>
-    <!-- <link rel="stylesheet" type="text/css"
-         href="http://960ls.atomidata.com/static/cssserve/9/5/6/0/5/95605.css"/>
-    -->
-    <!-- <link href="960.css" rel="stylesheet"/> -->
-    <link href="text.css" rel="stylesheet"/>
-    <link href="reset.css" rel="stylesheet"/>
-    <link href="95605.css" rel="stylesheet"/>
-    <link href="wingluke.css" rel="stylesheet"/>
-
-    <meta property="og:title" content="Wing Luke Museum of the Asian Pacific American Experience"/>
-    <meta property="og:type" content="non_profit"/>
-    <meta property="og:image" content="http://wingluke.org/refugee.gif"/>
-    <meta property="og:site_name" content="wingluke.org"/>
-    <!-- <meta property="fb:app_id" content="157523037613623"/> -->
-    <meta property="fb:app_id" content="34549168087"/>
-    <meta property="og:description"
-          content="Open graph item 1 of type movie"/>
-    <meta name="description" 
-          content="The Wing Luke Museum of the Asian
-                   American Experience connects
-                   everyone to the rich history,
-                   dynamic cultures and art of Asian
-                   Pacific Americans through vivid
-                   storytelling and inspiring
-                   experiences."/>
-
-
-  </head>
-  <body>
-
-    <div class="container_12">
-
-      <div id="icon" class="grid_6">
-        <img src="logo.png" alt="The Wing"/>
-      </div>
-
-      <div id="nav" class="grid_6">
-        <ul id="headerNav">
-          <li>
-            <span class="button">Donate</span>
-          </li>
-          <li>Sign in</li>
-          <li>FAQ</li>
-          <li>Contact Us</li>
-        </ul>
-        <div class="clearfix"></div>
-
-        <form id="searchForm" action="">
-          <input type="text" value="Search Wing Luke Museum"/>
-        </form>
-
-      </div>
-
-      <div class="clearfix"></div>
-
-      <div id="navContainerPrimary" class="grid_12">
-
-        <ul id="navBarPrimary">
-          <li>Home</li>
-          <li class="selected">Visit</li>
-          <li>Explore</li>
-          <li>Learn</li>
-          <li>Support</li>
-          <li>Shop</li>
-        </ul>
-
-      </div>
-
-      <div class="clearfix"></div>
-
-      <div id="navContainerSecondary" class="grid_12">
-
-        <ul id="navBarSecondary">
-          <li>Calendar</li>
-          <li>Plan your visit</li>
-          <li>Tours</li>
-          <li>Exhibitions</li>
-          <li>Events </li>
-        </ul>
-        <div class="clearfix"></div>
-
-      </div>
-
-      <div class="clearfix"></div>
-
-    </div>
+<!--#include file="../includes/header.shtm"-->
 
     <div id="bannerContainer" class="container_12">
       <div id="banner" class="grid_12">
@@ -169,13 +80,7 @@
 
       </div>
     
-    <script
-        src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
-    <script
-        src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
-
-
-    <script src="wingluke.js"></script>
+<!--#include file="../includes/footer.shtm"-->
 
   </body>
 </html>

@@ -1,6 +1,6 @@
 <!--#include file="includes/header.shtm"-->
 
-<div id="homecontainer" class="container_12">
+<div id="homeContainer" class="container_12">
 
 <div id="homeTours" class="grid_6 ">
 <h2>Tours</h2>

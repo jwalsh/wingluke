@@ -1,2 +1,36 @@
-<!--#include file="header.shtm"-->
-<!--#include file="footer.shtm"-->
+<!--#include file="../includes/header.shtm"-->
+
+
+<div id="exploreContainer" class="container_12">
+
+<div id="leftNav" style="background-color: #fccc60;" class="grid_2 ">
+  <h2>Explore</h2>
+
+  <ul>
+    <li><a href="">Research Resources</a></li>
+    <li><a href="">Blog</a></li>
+    <li>About Us
+    <div class="quaternaryNav" >
+      <ul style="list-style-type: circle">
+        <li><a href="">Staff</a></li>
+        <li><a href="">Board</a></li>
+        <li><a href="">Careers</a></li>
+      </ul>
+    </div>
+    </li>
+    <li><a href="">Luke Family Association</a></li>
+  </ul>
+</div>
+
+	
+	<div id="" class="grid_5 ">
+		<img src="/testing/static/images/logo.png" alt="The Wing" style="width:100%">
+	</div>
+	
+	<div id="" class="grid_5 ">
+		<!--#include file="../includes/lorem-ipsum"-->
+	</div>
+
+</div>
+
+<!--#include file="../includes/footer.shtm"-->

@@ -196,16 +196,19 @@ dd {
 }
 
 #leftNav li {
-    margin-left: 15px;
+    margin-left: 5px;
     margin-bottom: 15px;
     font-size: 12px;
-    
 }
 
 #leftNav li > li {
-    margin-left: 15px;
-    padding-left: 15px;
+    margin-left: 5px;
+    padding-left: 5px;
     font-size: 11px;
+}
+
+#leftNav ul {
+	padding-left: 10px;
 }
 
 .quaternaryNav { 
