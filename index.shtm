@@ -2,16 +2,16 @@
 
 <div id="homeContainer" class="container_12">
 
-  <div id="homeTours" class="grid_6 .bg1">
+  <div id="homeTours" class="grid_6 bg1">
     <h2>Tours</h2>
 
-    <h3>Historic Hotel Tour</h3>
+    <h4>Historic Hotel Tour</h4>
 
     <p>
       Guided tour of histori Chinatown hotel and Yick Fung Company store.  Tours are approximately 45 minutes.
     </p>
 
-    <h3>Chinatown Discovery Tour</h3>
+    <h4>Chinatown Discovery Tour</h4>
 
     <p>
       Experience the Touce of Chinatown, a guided tour of Chinatown-International District neighborhood.

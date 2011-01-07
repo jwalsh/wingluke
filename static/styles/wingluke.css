@@ -107,7 +107,6 @@ body {
 
 #exhibitsContainer, .bg2 { 
     background-color: #e3eaf4;
-    padding-left: 15px;
 }
 
 h2 { 
@@ -145,7 +144,6 @@ h5 {
 
 #toursContainer, .bg1 {
     background-color: #fff4dc;
-    padding-left: 15px;
 }
 
 .eventItem { 
