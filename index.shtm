@@ -21,45 +21,37 @@
 
   </div>
 
-  <div id="homeExhibits" class="grid_3 bg2">
+  <div id="homeExhibits" class="grid_4 bg2">
     <h2>Exhibits</h2>
 
     <p><a href="http://wingluke.org/exhibitions/special.htm#SS"><b><i>Sacred Seattle…</i></b></a><br>
-      <img src="../exhibitions/sacred_seattle_small.jpg" style="border: none; width:100%"><br style="clear: both;"></p>
+      <img src="../exhibitions/sacred_seattle_small.jpg" style="border: none; width:50%"><br style="clear: both;"></p>
 
     <p><a href="http://wingluke.org/exhibitions/special.htm#HR"><b><i>Home Revealed</i></b></a><br>
-      <img src="../exhibitions/home-revealed.jpg" style="border: none; width:100%" ><br style="clear: both;"></b></p>
+      <img src="../exhibitions/home-revealed.jpg" style="border: none; width:50%" ><br style="clear: both;"></b></p>
 
 <p><a href="http://wingluke.org/exhibitions/special.htm#FTGU"><b><i>From the Ground Up</i></b></a><br>
-  <img src="../exhibitions/from-the-ground-up-1.jpg" style="border: none; width:100%"></b></p>
+  <img src="../exhibitions/from-the-ground-up-1.jpg" style="border: none; width:50%"></b></p>
 
-</div>
-
-<div id="homeEvents" class="grid_3 ">
   <h2>Events</h2>
-  <p>
+  
+  Thursday, January 6 @ 10am&ndash;8pm
     <h3>FIRST THURSDAY</h3>
-    Thursday, January 6 @ 10am&ndash;8pm</p>
 
-
-  <p>
+  Thursday, January 6 @ 6pm
     <h3>BOOK READING WITH VERA ING</h3>
-    Thursday, January 6 @ 6pm</p><p>
-    Local community activist Vera Ing will do a reading from her memoir <i>Dim Sum: The Seattle ABC (American Born Chinese) Dream</i>.  "Lifelong Seattle resident Vera Ing writes about her early days in Chinatown, growing up in the Central Area and raising a family in Mt. Baker during the Civil Rights Movement. She talks about enduring friendships and the power of community organizing. And she rediscovers treasured Chinese American traditions that have nearly vanished from families that have assimilated too quickly." (excerpt from back of book)  <i>Dim Sum</i> is available to purchase from the Museum's store, The Marketplace.  For more info, check out Vera's website at <a href="http://veraing.com" class="bodyredbold">veraing.com</a>.</p><p>
-    Free | In Tateuchi Story Theatre at The Wing
-  </p>
 
-
-  <p>
+  Thursday, January 13 @ 5:30&ndash;8pm
     <h3>CULTURAL CONFLUENCE: URBAN PEOPLE OF ASIAN AND NATIVE AMERICAN HERITAGES: Exhibit Opening Reception</h3>
-    Thursday, January 13 @ 5:30&ndash;8pm</p><p>
-    Join us we celebrate the opening of our upcoming exhibit <i>Cultural Confluence: Urban People of Asian and Native American Heritages</i>.</p><p>
-    5:30&ndash;7pm Exclusive preview for members and invited guests.  Light refreshments will be served.  To RSVP, please contact Liz Shaiken at <a href="mailto:lshaiken@wingluke.org&Subject=Cultural%20Confluence%20RSVP">lshaiken@wingluke.org</a>, 206-623-5124 ext. 107.</p><p>
-    7&ndash;8pm Open to the public, free admission, No RSVP required.
-</p></div>
-
 
 </div>
+
+<div id="homeEvents" class="grid_2 ">
+<img src="http://wingluke.org/testing/static/images/logo.png" style="width:100%">
+</div>
+
+
+
 
 </div>
 
