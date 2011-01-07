@@ -101,12 +101,17 @@ body {
 }
 
 #banner {
-    background-color: #8f2d2a;
-    height: 152px;
+    color: #8f2d2a;
+    height: 150px;
     background-image: url(../images/banner_gradient.png); background-repeat: repeat-x;
-    padding-bottom: 11px;
-    margin: 0px;
-    padding: 0px;
+    overflow: hidden;
+}
+
+#bannerTag { 
+    float: right; 
+    padding-top: 30px; 
+    width: 400px;
+    font-size: 34px
 }
 
 #exhibitsContainer, .bg2 { 
@@ -210,7 +215,7 @@ dd {
 }
 
 #leftNav ul {
-	padding-left: 10px;
+	  padding-left: 10px;
 }
 
 .quaternaryNav { 
@@ -249,7 +254,7 @@ dd {
 }
 
 #footerPrimary ul {
-	list-style: none outside none;
+	  list-style: none outside none;
 }
 
 #footerPrimary li {
