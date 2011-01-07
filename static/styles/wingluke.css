@@ -102,7 +102,11 @@ body {
 
 #banner {
     background-color: #8f2d2a;
+    height: 152px;
+    background-image: url(../images/banner_gradient.png); background-repeat: repeat-x;
     padding-bottom: 11px;
+    margin: 0px;
+    padding: 0px;
 }
 
 #exhibitsContainer, .bg2 { 
