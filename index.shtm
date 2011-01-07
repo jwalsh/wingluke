@@ -1,5 +1,7 @@
 <!--#include file="includes/header.shtm"-->
 
+<!--#include file="includes/bannerContainer.html"-->
+
 <div id="homeContainer" class="container_12">
 
   <div id="homeTours" class="grid_6 bg1">
